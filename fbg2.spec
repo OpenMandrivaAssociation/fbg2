@@ -11,6 +11,7 @@ Source1:	%{name}.png
 Source2:	%{name}.desktop
 BuildRequires:	radius-engine-devel >= 0.7
 BuildRequires:	desktop-file-utils
+BuildRequires:	zip
 
 %description
 Falling Block Game is a free, open source block stacking game. The object of
