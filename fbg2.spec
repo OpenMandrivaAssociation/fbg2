@@ -5,7 +5,7 @@ Summary:	Tetris clone
 Group:		Games/Arcade
 # Code is GPLv2+, music and graphics are CC-BY-SA
 License:	GPLv2+ and CC-BY-SA
-URL:		http://sourceforge.net/projects/fbg/
+URL:		https://sourceforge.net/projects/fbg/
 Source0:	http://downloads.sourceforge.net/project/fbg/%{name}-%{version}.tar.gz
 Source1:	%{name}.png
 Source2:	%{name}.desktop
